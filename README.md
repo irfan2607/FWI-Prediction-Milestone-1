@@ -1,4 +1,4 @@
-```md
+
 # Tempest Fire Weather Index (FWI) Predictor
 
 ## Overview
@@ -133,4 +133,3 @@ A screen-recorded demo of the Flask app in action is available [here](<link-to-d
 - **Shaik Mohammad Irfan**
 - Infosys Springboard Virtual Internship
 - Completed: December 2025
-```
